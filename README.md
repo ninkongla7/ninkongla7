@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nin Kongla
 ==================================================================================================================================
 
-Computer Science Student
+Information Science Student
 ------------------------
 
-I am a computer science student who loves to code!
+I am an undergraduate student studying information science with a minor in business analytics who loves to code!
 
 * 🌍  I'm based in Boulder, CO
-* ✉️  You can contact me at [ninkongla01@gmail.com](mailto:ninkongla01@gmail.com)
-* 🧠  I'm learning Algorithm
+* ✉️  You can contact me at [ruko3572@colorado.edu](mailto:ruko3572@colorado.edu)
+* 🧠  I'm learning Web Development and Video Game.
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
